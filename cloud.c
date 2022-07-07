@@ -5,6 +5,7 @@ int main()
   c=a;
   a=b;
   b=c;
+  测试开始
   123
 
 }
